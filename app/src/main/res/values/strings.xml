@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scale Calculator</string>
+
+    <string name="prefill_value_input">1</string>
+    <string name="one_by">1 :</string>
+    <string name="input_colon">Input:</string>
+    <string name="output_colon">Output:</string>
+    <string name="calculate">calculate</string>
+</resources>
